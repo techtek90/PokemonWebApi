@@ -1,0 +1,8 @@
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\bin\Debug\linqProject.exe.config
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\bin\Debug\linqProject.exe
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\bin\Debug\linqProject.pdb
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\obj\Debug\linqProject.csproj.AssemblyReference.cache
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\obj\Debug\linqProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\obj\Debug\linqProject.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\obj\Debug\linqProject.exe
+C:\Users\Hilal\Documents\Visual Studio 2022\PokemonReviewApp\linqProject\obj\Debug\linqProject.pdb
